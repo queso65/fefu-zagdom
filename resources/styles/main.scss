@@ -1,0 +1,16 @@
+@import "../layouts/base.scss";
+@import "../components/footer/footer.scss";
+@import "../components/header/header.scss";
+
+$primary: red;
+$secondary: blue;
+
+body{
+    text-align:center;
+    font-family:'Open-Sans', sans-serif;
+    color:white;
+}
+
+.hello{
+    font-family:'Montserrat', sans-serif;
+}

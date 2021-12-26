@@ -1,0 +1,11 @@
+.Layout{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+    &__main {
+        background: linear-gradient(rgb(105, 230, 252), rgb(250, 197, 237) );
+        flex: 1;
+    }
+}
+
